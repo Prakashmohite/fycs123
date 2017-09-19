@@ -1,2 +1,4 @@
-# fycs123
+st# fycs123
 i m studying in mcc
+studying cs
+studing in first year
